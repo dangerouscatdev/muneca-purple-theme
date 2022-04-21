@@ -14,7 +14,11 @@
         "color": "#2A213D",
         "theme":"dark"
     },
-    "icon": "https://github.com/dcat-muneca/Git-Projects/blob/master/muneca-purple-theme/images/icon/dcat-icon-250x250.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/dangerouscatdev/muneca-purple-theme"
+    },
+    "icon": "https://github.com/dangerouscatdev/muneca-purple-theme/blob/master/images/icon/dcat-icon-250x250.png",
     "categories": [
         "Themes"
     ],
