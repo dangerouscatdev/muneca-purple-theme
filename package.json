@@ -1,0 +1,37 @@
+{
+    "name": "muneca-purple-theme",
+    "displayName": "Muneca Purple Theme",
+    "description": "VSCoder Purple Muted Colors Theme",
+    "publisher":"DangerousCat",
+    "author":{
+        "name": "Muñeca Osorio"
+    },
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.66.0"
+    },
+    "galleryBanner": {
+        "color": "#2A213D",
+        "theme":"dark"
+    },
+    "icon": "https://github.com/dcat-muneca/Git-Projects/blob/master/muneca-purple-theme/images/icon/dcat-icon-250x250.png",
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "theme",
+        "dark",
+        "purple",
+        "muted",
+        "dangerouscat"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Muneca Purple Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Muneca Purple Theme-color-theme.json"
+            }
+        ]
+    }
+}
